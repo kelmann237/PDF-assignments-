@@ -1,1 +1,14 @@
-# PDF-assignments-
+this repository is made up of 3 exercise
+ex1.kt  ( Exercise1:BuildYourOwnHigher-OrderFunction
+WriteafunctionprocessListthattakesalistof integersandalambda(Int)->Boolean,
+andreturnsanewlistcontainingonlytheelementsthatsatisfythepredicate.)
+
+ex2.kt ( TransformingBetweenCollectionTypes
+Task
+Givenalistofstrings,createamapwherethekeysarethestringsandthevaluesaretheir
+lengths.Thenprintonlytheentrieswherethelengthisgreaterthan4 )
+
+ex3.kt ( Exercise3:ComplexDataProcessing
+Task
+Youhavealistofpeoplewithnamesandages. Findtheaverageageofpeoplewhosenames
+startwiththeletter ’A’or ’B’.Printtheresultroundedtoonedecimalplace )
